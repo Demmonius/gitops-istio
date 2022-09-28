@@ -46,3 +46,5 @@ spec:
   releaseName: flagger-grafana
   values:
     url: http://flagger-prometheus.istio-system:9090
+    user: admin
+    password: admin
